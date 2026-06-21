@@ -1,21 +1,13 @@
+# Save this as: README.md
+# Repository name: karalapatiphanicharan-cyber
+
 <div align="center">
 
-# 👋 Hi, I'm **Karalapati Phani Charan**
+# 👋 Hi, I'm Karalapati Phani Charan
 
-### 🚀 AI & ML Enthusiast • Full Stack Developer • Python Developer
+### AI & Machine Learning Enthusiast • Full Stack Developer • Building Privacy-First & AI-Powered Applications
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Privacy-First+Software+Developer;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Always+Learning+New+Technologies" />
-</p>
-
-<p>
-  <a href="https://github.com/karalapatiphanicharan-cyber">
-    <img src="https://img.shields.io/github/followers/karalapatiphanicharan-cyber?label=Followers&style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/phani-charan-7335283a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Privacy-First+Software+Builder;React+%7C+TypeScript+%7C+FastAPI;Always+Learning+Always+Building" />
 
 </div>
 
@@ -23,85 +15,44 @@
 
 # 🚀 About Me
 
-I'm a passionate developer focused on creating **privacy-first**, **AI-powered**, and **user-centric** software that solves practical problems.
+I'm a passionate developer who enjoys building **privacy-focused**, **AI-powered**, and **real-world** software.
 
-- 🔐 Built **StealthChat**, a secure messaging platform emphasizing privacy and modern communication.
-- 🤖 Developed **HireLens**, an AI-powered resume analysis tool that provides intelligent feedback and hiring insights.
-- 📊 Created **ArrayIQ**, an interactive platform for algorithm visualization and data exploration.
-- 💰 Engineered **ExpenseTracker**, a full-stack personal finance application with budgeting and analytics features.
-- 🧠 Interested in **Artificial Intelligence, Machine Learning, Backend Engineering, and Scalable Systems**.
-- ⚡ Enjoy transforming ideas into polished products with clean architecture and great user experiences.
-- 🌱 Continuously learning and experimenting with modern frameworks and emerging technologies.
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+- 🔐 Built **StealthChat**, a secure messaging platform focused on privacy and modern UX.
+- 🤖 Built **HireLens**, an AI-powered resume analyzer with intelligent feedback.
+- 📊 Created **ArrayIQ**, an interactive platform for algorithms and data visualization.
+- 💰 Developed **ExpenseTracker**, a full-stack personal finance management application.
+- 🌱 Interested in Artificial Intelligence, Machine Learning, Backend Engineering, and System Design.
+- ⚡ Passionate about writing clean, scalable, and maintainable code.
 
 ---
 
 # 🏆 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/karalapatiphanicharan-cyber/StealthChat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karalapatiphanicharan-cyber&repo=StealthChat&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/karalapatiphanicharan-cyber/HireLens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karalapatiphanicharan-cyber&repo=HireLens&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/karalapatiphanicharan-cyber/ArrayIQ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karalapatiphanicharan-cyber&repo=ArrayIQ&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/karalapatiphanicharan-cyber/ExpenseTracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karalapatiphanicharan-cyber&repo=ExpenseTracker&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+| Project | Description |
+|---------|-------------|
+| 🔐 **StealthChat** | Privacy-first secure messaging application with modern architecture. |
+| 🤖 **HireLens** | AI resume analysis platform for smarter hiring insights. |
+| 📊 **ArrayIQ** | Interactive algorithm visualization and learning platform. |
+| 💰 **ExpenseTracker** | Expense and budget management with analytics dashboards. |
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Tech Stack
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karalapatiphanicharan-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karalapatiphanicharan-cyber&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karalapatiphanicharan-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karalapatiphanicharan-cyber&theme=tokyonight"/>
-</p>
+Python • JavaScript • TypeScript • React • FastAPI • Flask • MongoDB • Git • GitHub
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karalapatiphanicharan-cyber/karalapatiphanicharan-cyber/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karalapatiphanicharan-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=karalapatiphanicharan-cyber&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karalapatiphanicharan-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karalapatiphanicharan-cyber&theme=tokyonight" />
 </p>
 
 ---
@@ -109,39 +60,32 @@ I'm a passionate developer focused on creating **privacy-first**, **AI-powered**
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karalapatiphanicharan-cyber&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karalapatiphanicharan-cyber&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🐍 Contribution Snake
+
+> Requires a GitHub Actions workflow to generate the SVG.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karalapatiphanicharan-cyber&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/karalapatiphanicharan-cyber/karalapatiphanicharan-cyber/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
-<p align="center">
-
-<a href="https://github.com/karalapatiphanicharan-cyber">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/phani-charan-7335283a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+- GitHub: https://github.com/karalapatiphanicharan-cyber
+- LinkedIn: https://www.linkedin.com/in/phani-charan-7335283a5/
 
 ---
 
 <div align="center">
 
-## 💡 *"Building secure, intelligent, and impactful software — one project at a time."*
+### 💡 “Building secure, intelligent, and impactful software.”
 
-⭐ **If you enjoy my work, consider starring my repositories!**
+⭐ Thanks for visiting my profile!
 
 </div>
