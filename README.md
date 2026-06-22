@@ -82,10 +82,10 @@
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karalapatiphanicharan-cyber&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/karalapatiphanicharan-cyber/karalapatiphanicharan-cyber/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
