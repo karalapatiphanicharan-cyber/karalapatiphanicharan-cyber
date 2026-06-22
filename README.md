@@ -82,10 +82,10 @@
 
 ---
 
-# 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karalapatiphanicharan-cyber&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karalapatiphanicharan-cyber&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 ---
