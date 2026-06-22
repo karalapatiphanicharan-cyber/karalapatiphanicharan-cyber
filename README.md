@@ -82,13 +82,6 @@
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karalapatiphanicharan-cyber/karalapatiphanicharan-cyber/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 # 📫 Connect With Me
 
