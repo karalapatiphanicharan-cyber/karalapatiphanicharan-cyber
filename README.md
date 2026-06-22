@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karalapati Phani Charan</h1>
+<h1 align="center">Hi 👋, I'm Phani Charan </h1>
 
 <h3 align="center">
 🚀 AI & ML Enthusiast • Full Stack Developer • Python Developer • Building Real-World Intelligent Applications
