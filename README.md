@@ -12,6 +12,12 @@
   <b>🔐 Privacy • 🤖 AI • 💻 Full Stack • 🚀 Open Source</b>
 </p>
 
+<p align="center">
+  <a href="https://phani-portfolio-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
@@ -128,6 +134,10 @@
 # 📫 Connect With Me
 
 <p align="center">
+
+<a href="https://phani-portfolio-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="https://github.com/karalapatiphanicharan-cyber">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
