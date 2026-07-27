@@ -108,17 +108,21 @@
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karalapatiphanicharan-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karalapatiphanicharan-cyber&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karalapatiphanicharan-cyber&show_icons=true&theme=react&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&border_color=2dd4bf&hide_border=false&count_private=true" />
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karalapatiphanicharan-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karalapatiphanicharan-cyber&theme=react&background=0d1117&stroke=2dd4bf&ring=2dd4bf&fire=a855f7&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=2dd4bf" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karalapatiphanicharan-cyber&layout=compact&theme=react&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=2dd4bf&hide_border=false" />
+
+</div>
 
 ---
 
