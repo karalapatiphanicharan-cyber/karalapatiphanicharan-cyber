@@ -16,6 +16,9 @@
   <a href="https://phani-portfolio-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/GV2023000500">
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-2dd4bf?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 
@@ -28,9 +31,18 @@
 - 🤖 Developed **HireLens**, an AI-powered resume analyzer providing intelligent hiring insights.
 - 📊 Created **ArrayIQ**, an interactive platform for algorithm visualization and data exploration.
 - 💰 Engineered **ExpenseTracker**, a full-stack personal finance management application with budgeting and analytics.
+- 🏆 Competitive Programming Team Member, **ACM – GITAM Chapter**.
+- 📈 250+ LeetCode problems solved • 1000+ GitHub contributions.
 - 💻 Passionate about **Artificial Intelligence, Full Stack Development, Python, React, FastAPI, and Backend Systems**.
 - 🌱 Continuously learning modern technologies and building scalable, user-centric applications.
 - 🎯 Dedicated to creating secure, intelligent, and impactful software.
+
+---
+
+# 💼 Experience
+
+- 🤖 **AI Intern** @ [1Stop.ai](https://1stop.ai) — *May 2026 – Jun 2026 · Remote*
+- 📊 **Data Analytics with AI Academic Intern** @ IBM SkillsBuild & CSR Box — *Aug 2026 – Sept 2026*
 
 ---
 
@@ -101,10 +113,12 @@
 
 | 🚀 Project | 📖 Description |
 |------------|----------------|
-| 🔐 **[StealthChat](https://github.com/karalapatiphanicharan-cyber/StealthChat)** | Privacy-focused messaging platform with secure communication and modern UI. |
 | 💼 **[HireLens](https://github.com/karalapatiphanicharan-cyber/HireLens)** | AI-powered resume analysis platform delivering intelligent career insights. |
-| 📊 **[ArrayIQ](https://github.com/karalapatiphanicharan-cyber/arrayiq)** | Interactive algorithm visualization and educational platform. |
+| 🔐 **[StealthChat](https://github.com/karalapatiphanicharan-cyber/StealthChat)** | Privacy-focused messaging platform with secure communication and modern UI. |
+| 🧠 **[RepoMind AI](https://github.com/karalapatiphanicharan-cyber/repomind-ai)** | AI-powered tool for analyzing and understanding GitHub repositories. |
 | 💰 **[ExpenseTracker](https://github.com/karalapatiphanicharan-cyber/ExpenseTracker)** | Full-stack expense management system with analytics and budgeting tools. |
+| 📝 **[Notely](https://github.com/karalapatiphanicharan-cyber/Notely)** | Smart note-taking and organization app for streamlined productivity. |
+| 📅 **[Schedulix](https://github.com/karalapatiphanicharan-cyber/Schedulix)** | Smart scheduling and task management application. |
 
 ---
 
@@ -126,6 +140,16 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcode-stats-card.vercel.app/api?username=GV2023000500&theme=dark" />
+
+</div>
+
+---
+
 
 # 📫 Connect With Me
 
@@ -139,8 +163,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/phani-charan-7335283a5/">
+<a href="https://www.linkedin.com/in/phani-charan-karalapati/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/GV2023000500">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
